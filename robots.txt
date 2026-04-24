@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://landscaping-service-dallas-tx.netlify.app/sitemap.xml
